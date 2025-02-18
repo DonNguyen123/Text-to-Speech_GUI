@@ -2,7 +2,7 @@
 
 Hello,
 
-The code provided is essentually is a GUI of a vits model from the python TTS libary. To get the code, which may be unusually large, please use this google link, to find and download the zip file required. The file "TTS GUI Code.zip" contains the origional code in case you wish to run it directly in python. If you wish to have an executable to run instead, please download "TTS GUI Version A.zip", unzip it, and click the exe file. Note that for some the executable version may be falsely flagged in some antivirus software. Reguardless of which method used, you should get the first image shown below when you run the program:
+The code provided is essentually is a GUI of a vits model from the python TTS libary. To get the code, which may be unusually large, please use this google link (https://drive.google.com/drive/folders/1KZ6q2xyNh0x1msT0dN4yzUv3585HxdU3?usp=drive_link), to find and download the zip file required. The file "TTS GUI Code.zip" contains the origional code in case you wish to run it directly in python. If you wish to have an executable to run instead, please download "TTS GUI Version A.zip", unzip it, and click the exe file. Note that for some the executable version may be falsely flagged in some antivirus software. Reguardless of which method used, you should get the first image shown below when you run the program:
 
 ![alt text](https://github.com/DonNguyen123/Text-to-Speech_GUI/blob/cceacd2cf13ba55fd54e85c9ee8f8c44cba06fc5/Example%20Images%20and%20Sound/Main_Interface.png)
 
